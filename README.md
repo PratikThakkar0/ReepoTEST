@@ -1,4 +1,4 @@
 # Sept2reepo
  RAEDME
 #
-This is test Repository for DATA 2401
+A Repository for Data 2401 in Fall 2020
