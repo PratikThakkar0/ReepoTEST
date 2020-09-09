@@ -12,9 +12,8 @@ A Repository for Data 2401 in Fall 2020
 | *Data Science I*  | *Computer Science*   | *Calculas 3*      |      *Math*   | 
 |Katherine Shoemaker| John Henderson | Vasilis Zafiris | Plamen Simeonov |
 
-**Last Week Homework**
 
-|**The Echo Command** 
+**The Echo Command** 
 
 ```
 - Add another text using Echo text > name.txt
